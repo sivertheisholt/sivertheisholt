@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivertheisholt)](https://github.com/sivertheisholt/github-readme-stats)
+<img align="left" alt="sivertheisholt's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sivertheisholt&show_icons=true&hide_border=true" />
