@@ -49,4 +49,78 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 * **Server:** Unraid OS
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 140 Contributions in the Year 2021
+ > 
+> 📦 41.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    101 commits    ████████████████░░░░░░░░░   65.16% 
+🌃 Evening    34 commits     █████░░░░░░░░░░░░░░░░░░░░   21.94% 
+🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
+Tuesday      70 commits     ███████████░░░░░░░░░░░░░░   45.16% 
+Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
+Sunday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Oslo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sivertheisholt/sivertheisholt/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
