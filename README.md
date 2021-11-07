@@ -1,8 +1,3 @@
-<p align="center">
-  <strong></strong> |
-  <strong></a></strong>
-</p>
-
 ## Hello there 👋
 I hope you are having a wonderful day! I go by the name **Wondyr** on the internet. I'm a 23 year-old student from Norway who is currently a studying IT and information technology at [University of South-Eastern Norway](https://www.usn.no/english/).
 * Currently living in Bø i Midt-Telemark
