@@ -47,7 +47,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 * **Editors:** VSCode, IntelliJ, Android Studio
 * **OS:** Pop!_OS on laptop | Dual boot Pop!_OS / Win 10 on desktop
 * **Server:** Unraid OS
-* 
+
 ## Stats
 
 <!--START_SECTION:waka-->
