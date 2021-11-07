@@ -52,3 +52,5 @@ Hello there! I go by the name **Wondyr** on the internet. I'm a 23 year-old stud
 * **Editors:** VSCode, IntelliJ, Android Studio
 * **OS:** Pop!_OS on laptop | Dual boot Pop!_OS / Win 10 on desktop
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
