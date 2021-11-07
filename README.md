@@ -1,15 +1,15 @@
-Hello there! I go by the name **Wondyr** on the internet. I'm a 23 year-old student from Norway who is currently a studying IT and information technology at [University of South-Eastern Norway](https://www.usn.no/english/). I'm looking to hone my skills and create cool/interesting projects!
-
 <p align="center">
-  <strong><a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a></strong>
+  <strong></strong> |
+  <strong></a></strong>
 </p>
 
-<p align="center">
-  🇳🇴 Norwegian - Native
-  <br>
-  🇬🇧 English - Fluent
-</p>
+## Hello there 👋
+I hope you are having a wonderful day! I go by the name **Wondyr** on the internet. I'm a 23 year-old student from Norway who is currently a studying IT and information technology at [University of South-Eastern Norway](https://www.usn.no/english/).
+* Currently living in Bø i Midt-Telemark
+* I love learning new things
+* Positive and love meeting new people
+* How to reach me: <a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a> | <a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a>
+
 
 
 ## Technologies
@@ -51,6 +51,7 @@ Hello there! I go by the name **Wondyr** on the internet. I'm a 23 year-old stud
 
 * **Editors:** VSCode, IntelliJ, Android Studio
 * **OS:** Pop!_OS on laptop | Dual boot Pop!_OS / Win 10 on desktop
+* **Server:** Unraid OS
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
