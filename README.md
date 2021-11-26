@@ -13,6 +13,8 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 
 *Technologies I have used extensively*
 
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
@@ -30,8 +32,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://pugjs.org/api/getting-started.html"><img src="https://img.shields.io/badge/pug-A864544?style=for-the-badge&logo=pug&logoColor=black"/></a>
 
 ### Learning
