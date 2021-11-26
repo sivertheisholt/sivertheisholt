@@ -23,7 +23,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.unraid.net/"><img src="https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white"/></a>
 
-### Looked into
+### Used
 
 *Technologies that I have used, but not extensively* 
 
