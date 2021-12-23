@@ -51,8 +51,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2043%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -80,16 +78,20 @@ Sunday       52 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 16 mins       ████████████████████████░   97.54% 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 21 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WondyFrame               3 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,5 +108,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
