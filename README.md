@@ -24,6 +24,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.unraid.net/"><img src="https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 
 ### Used
 
@@ -39,7 +40,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 *Technologies that I am in the process of learning or want to do a project in*
 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 ## Misc
