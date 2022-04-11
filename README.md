@@ -1,6 +1,6 @@
 ## Hello there 👋
 I hope you are having a wonderful day! I go by the name **Wondyr** on the internet. I'm a 23 year-old student from Norway who is currently studying IT and information technology at [University of South-Eastern Norway](https://www.usn.no/english/).
-* Currently living in Bø i Midt-Telemark
+* Currently living in Ulefoss in Telemark
 * I love learning new things
 * Positive and love meeting new people
 * How to reach me: <a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a> | <a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a>
