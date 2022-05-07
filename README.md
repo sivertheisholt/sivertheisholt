@@ -51,6 +51,8 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 ## Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -104,5 +106,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:50:41 UTC
+ Last Updated on 07/05/2022 18:48:59 UTC
 <!--END_SECTION:waka-->
