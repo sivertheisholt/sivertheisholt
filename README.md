@@ -51,7 +51,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -68,8 +68,8 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
 Tuesday      105 commits    ███████░░░░░░░░░░░░░░░░░░   27.56% 
 Wednesday    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
-Thursday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Friday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
 Saturday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
 Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.49%
 
@@ -106,5 +106,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:51:07 UTC
+ Last Updated on 12/05/2022 18:53:37 UTC
 <!--END_SECTION:waka-->
