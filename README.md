@@ -80,16 +80,16 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WondyFrame               22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -106,5 +106,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2022 18:52:09 UTC
+ Last Updated on 28/05/2022 18:49:26 UTC
 <!--END_SECTION:waka-->
