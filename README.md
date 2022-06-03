@@ -1,5 +1,5 @@
 ## Hello there 👋
-I hope you are having a wonderful day! I go by the name **Wondyr** on the internet. I'm a 23 year-old student from Norway who is currently studying IT and information technology at [University of South-Eastern Norway](https://www.usn.no/english/).
+I hope you are having a wonderful day! I go by the name **Wondyr** on the internet. I'm 23 year-old from Norway who is currently working at [Bouvet](https://www.bouvet.no/) as an IT-Consultant.
 * Currently living in Ulefoss in Telemark
 * I love learning new things
 * Love meeting new people
