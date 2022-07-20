@@ -34,18 +34,18 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
 <a href="https://pugjs.org/api/getting-started.html"><img src="https://img.shields.io/badge/pug-A864544?style=for-the-badge&logo=pug&logoColor=black"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 ### Learning
 
 *Technologies that I am in the process of learning or want to do a project in*
 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 ## Misc
 
-* **Editors:** VSCode, IntelliJ, Android Studio
-* **OS:** Pop!_OS on laptop | Dual boot Pop!_OS / Win 10 on desktop
+* **Editors:** VSCode, VS22, IntelliJ, Android Studio
+* **OS:** Win 10
 * **Server:** Unraid OS
 
 ## Stats
