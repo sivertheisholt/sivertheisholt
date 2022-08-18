@@ -51,7 +51,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -106,5 +106,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2022 18:53:27 UTC
+ Last Updated on 18/08/2022 18:50:15 UTC
 <!--END_SECTION:waka-->
