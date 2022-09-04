@@ -51,47 +51,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%208%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-🌆 Daytime    187 commits    ███████████░░░░░░░░░░░░░░   46.98% 
-🌃 Evening    143 commits    █████████░░░░░░░░░░░░░░░░   35.93% 
-🌙 Night      61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.38% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-Saturday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
-Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I Mostly Code in Java** 
 
@@ -106,5 +66,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:49:51 UTC
+ Last Updated on 04/09/2022 18:49:12 UTC
 <!--END_SECTION:waka-->
