@@ -5,8 +5,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 * Love meeting new people
 * How to reach me: <a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a> | <a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a>
 
-
-
 ## Technologies
 
 ### Familiar with
@@ -25,6 +23,8 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.unraid.net/"><img src="https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+
 
 ### Used
 
@@ -34,13 +34,7 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
 <a href="https://pugjs.org/api/getting-started.html"><img src="https://img.shields.io/badge/pug-A864544?style=for-the-badge&logo=pug&logoColor=black"/></a>
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 
-### Learning
-
-*Technologies that I am in the process of learning or want to do a project in*
-
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 ## Misc
 
@@ -49,49 +43,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 * **Server:** Unraid OS
 
 ## Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2028%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-🌆 Daytime    184 commits    ███████████░░░░░░░░░░░░░░   44.55% 
-🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   38.5% 
-🌙 Night      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   25.42% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-Friday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
-Saturday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in Java** 
 
