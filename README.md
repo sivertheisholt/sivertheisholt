@@ -25,17 +25,6 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 
-
-### Used
-
-*Technologies that I have used, but not extensively* 
-
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/></a>
-<a href="https://pugjs.org/api/getting-started.html"><img src="https://img.shields.io/badge/pug-A864544?style=for-the-badge&logo=pug&logoColor=black"/></a>
-
-
 ## Misc
 
 * **Editors:** VSCode, VS22, IntelliJ, Android Studio
