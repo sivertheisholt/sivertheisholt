@@ -30,21 +30,4 @@ I hope you are having a wonderful day! I go by the name **Wondyr** on the intern
 * **Editors:** VSCode, VS22, IntelliJ, Android Studio
 * **OS:** Win 10
 * **Server:** Unraid OS
-
-## Stats
-
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
-JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
-
-
- Last Updated on 12/10/2022 19:01:50 UTC
 <!--END_SECTION:waka-->
