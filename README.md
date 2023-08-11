@@ -1,5 +1,5 @@
 ## Hello there 👋
-I hope you are having a wonderful day! I'm 24 year-old from Norway who is currently working at [Bouvet](https://www.bouvet.no/) as an IT-Consultant.
+I hope you are having a wonderful day! I'm 25 year-old from Norway who is currently working at [Bouvet](https://www.bouvet.no/) as an IT-Consultant.
 * Currently living in Ulefoss in Telemark
 * I love learning new things
 * Love meeting new people
