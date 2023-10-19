@@ -1,13 +1,9 @@
 ## Hello there 👋
 I hope you are having a wonderful day! I'm 25 year-old from Norway who is currently working at [Bouvet](https://www.bouvet.no/) as an IT-Consultant.
-* Currently living in Ulefoss in Telemark
-* I love learning new things
-* Love meeting new people
-* How to reach me: <a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a> | <a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a>
 
-## Technologies
+How to reach me: <a href="https://www.linkedin.com/in/sivert-heisholt-07a697201/">📬 LinkedIn</a> | <a href="mailto:sivert.b.heisholt@protonmail.com">📬 E-mail</a>
 
-### Familiar with
+## Familiar with 💾
 
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -23,9 +19,9 @@ I hope you are having a wonderful day! I'm 25 year-old from Norway who is curren
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 
-## Misc
+## Misc 🖥
 
 * **Editors:** VSCode, VS22, IntelliJ, Android Studio
-* **OS:** Win 10
+* **OS:** Win 11
 * **Server:** Unraid OS
 <!--END_SECTION:waka-->
