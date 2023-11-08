@@ -36,4 +36,7 @@ How to reach me:
 * **Editors:** VSCode, VS22, IntelliJ, Android Studio
 * **OS:** Win 11
 * **Server:** Unraid OS
-<!--END_SECTION:waka-->
+
+## Statistics
+![](https://raw.githubusercontent.com/sivertheisholt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sivertheisholt/github-stats/master/generated/overview.svg#gh-light-mode-only)
