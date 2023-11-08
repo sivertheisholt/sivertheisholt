@@ -38,5 +38,5 @@ How to reach me:
 * **Server:** Unraid OS
 
 ## Statistics
-![](https://raw.githubusercontent.com/sivertheisholt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sivertheisholt/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
