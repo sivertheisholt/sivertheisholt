@@ -40,3 +40,5 @@ How to reach me:
 ## Statistics
 ![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/sivertheisholt/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/sivertheisholt/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
