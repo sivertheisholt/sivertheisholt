@@ -31,12 +31,6 @@ How to reach me:
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.unraid.net/"><img src="https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white"/></a>
 
-## Misc 🖥
-
-* **Editors:** VSCode, VS22, IntelliJ, Android Studio
-* **OS:** Win 11
-* **Server:** Unraid OS
-
 ## Statistics
 ![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/sivertheisholt/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
