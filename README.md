@@ -22,9 +22,7 @@ How to reach me:
 
 ### Database
 <a href="https://www.mongodb.com/"><img src ="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://mariadb.org/"><img src="https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
-<a href="https://mariadb.org/"><img src="https://img.shields.io/badge/mysql-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
-
+<a href="https://mysql.com/"><img src="https://img.shields.io/badge/mysql-003545?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 ### Other
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>
