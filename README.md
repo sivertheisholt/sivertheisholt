@@ -16,7 +16,6 @@ How to reach me:
 
 ### Backend
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
 <a href="https://python.org/"><img src="https://img.shields.io/badge/python-61DAFB?style=for-the-badge&logo=python&logoColor=black"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
