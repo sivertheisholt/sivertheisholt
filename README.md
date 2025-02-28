@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sivertheisholt)
 ## Hello there 👋
-I hope you are having a wonderful day! I'm 26 year-old from Norway who is currently working at [Bouvet](https://en.bouvet.no/) as an IT-Consultant.
+I hope you are having a wonderful day! I'm 26 year-old from Norway who is currently working at [Novari IKS](https://novari.no/) as a Developer.
 
 How to reach me: 
 
