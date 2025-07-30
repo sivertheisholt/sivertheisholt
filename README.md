@@ -1,5 +1,5 @@
 ## Hello there 👋
-I hope you are having a wonderful day! I'm 26 year-old from Norway who is currently working at [Novari IKS](https://novari.no/) as a Developer.
+I hope you are having a wonderful day! I'm a 27 year-old man from Norway who is currently working at [Novari IKS](https://novari.no/) as a Developer.
 
 How to reach me: 
 
