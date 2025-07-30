@@ -1,5 +1,10 @@
 ## Hello there 👋
-I hope you are having a wonderful day! I'm a 27 year-old man from Norway who is currently working at [Novari IKS](https://novari.no/) as a Developer.
+I hope you are having a wonderful day! I'm a 27 year-old man from Norway who is currently working at [Novari IKS](https://novari.no/) as a Developer. Im in the FLAIS (FINTLabs Application Infrastructure Services) team, that is the core infrastructure of FINT and the platform on which all services run.
+
+Previous:
+
+➢ [Bouvet](https://www.bouvet.no/) - IT consultant as fullstack developer
+
 
 How to reach me: 
 
